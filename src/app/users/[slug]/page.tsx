@@ -1,7 +1,7 @@
 import React from "react";
 
-const SingeUser = ({ params }: { params: { slug: string } }) => {
-  return <div>SingeUser {params?.slug}</div>;
+const SingeUser = () => {
+  return <div>SingeUser </div>;
 };
 
 export default SingeUser;
